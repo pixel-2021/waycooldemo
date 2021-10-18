@@ -78,7 +78,7 @@
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 
 <div class="comnn-spcl-para wow fadeInRight" data-wow-duration="1.3s">
-Waycool is one of India’s fastest growing Agri-tech <br> companies that has established itself as the largest food <br> development and distribution services chain, that aims <br> to positively impact the lives of over 5,00,000 farmers. 
+WayCool is one of India’s fastest growing Agri-tech <br> companies that has established itself as the largest food <br> development and distribution services chain, that aims <br> to positively impact the lives of over 5,00,000 farmers. 
 </div>
 
 <!-- <div class="or-espt">

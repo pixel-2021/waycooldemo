@@ -26,7 +26,7 @@
 
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 <div class="comnn-title text-center wow fadeInUp" data-wow-duration="1s">
-<h3><span> Waycool </span> Why Choose us </h3>
+<h3><span> WayCool </span> Why Choose us </h3>
 </div>
 </div>
 

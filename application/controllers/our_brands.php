@@ -11,10 +11,10 @@ class our_brands extends Controller {
 		//print_r($getEproductcatprods); exit;
 	 	$template = $this->loadView('our_brands_view');
 		
-		$headcss='<meta name="description" content=" ">
+		$headcss='<meta name="description" content=" Delight your customers with our range of farm-fresh fruits & vegetables and home brands that are built ground up with extensive quality control from the source to your doorstep. ">
 				  <meta name="keywords" content=" ">
 				  
-				  <title> Our Brands - Waycool </title>';
+				  <title> Homegrown Brands - WayCool </title>';
 		$template->set('menu_disp', 'our_brands');	 
 	    $template->set('headcss',$headcss);
 		 

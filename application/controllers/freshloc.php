@@ -11,10 +11,10 @@ class freshloc extends Controller {
 		//print_r($getEproductcatprods); exit;
 	 	$template = $this->loadView('freshloc_view');
 		
-		$headcss='<meta name="description" content=" ">
+		$headcss='<meta name="description" content="FreshLoc, from the house of WayCool, offers premium Organic Virgin Cold Pressed Coconut Oil.">
 				  <meta name="keywords" content=" ">
 				  
-				  <title> Freshloc - Waycool </title>';
+				  <title> Freshloc - WayCool </title>';
 		$template->set('menu_disp', 'freshloc');	 
 	    $template->set('headcss',$headcss);
 		 

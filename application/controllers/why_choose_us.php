@@ -11,10 +11,10 @@ class why_choose_us extends Controller {
 		//print_r($getEproductcatprods); exit;
 	 	$template = $this->loadView('why_choose_us_view');
 		
-		$headcss='<meta name="description" content=" ">
+		$headcss='<meta name="description" content="We have deep and wide sourcing for fresh fruits and vegetables, staples, and other kitchen essentials. ">
 				  <meta name="keywords" content=" ">
 				  
-				  <title> Why Choose Us - Waycool </title>';
+				  <title> Why Choose Us - WayCool </title>';
 		$template->set('menu_disp', 'why_choose_us');	 
 	    $template->set('headcss',$headcss);
 		 

@@ -14,7 +14,7 @@ class contact_us extends Controller {
 		$headcss='<meta name="description" content=" ">
 				  <meta name="keywords" content=" ">
 				  
-				  <title> Contact Us - Waycool </title>';
+				  <title> Contact Us - Waycool Foods and Products | Dubai </title>';
 		$template->set('menu_disp', 'contact_us');	 
 	    $template->set('headcss',$headcss);
 		 

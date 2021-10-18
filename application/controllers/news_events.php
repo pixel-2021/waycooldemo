@@ -14,7 +14,7 @@ class news_events extends Controller {
 		$headcss='<meta name="description" content=" ">
 				  <meta name="keywords" content=" ">
 				  
-				  <title> News and Events - Waycool </title>';
+				  <title> News and Events - WayCool </title>';
 		$template->set('menu_disp', 'news_events');	 
 	    $template->set('headcss',$headcss);
 		 

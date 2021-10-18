@@ -11,10 +11,10 @@ class fresheys extends Controller {
 		//print_r($getEproductcatprods); exit;
 	 	$template = $this->loadView('fresheys_view');
 		
-		$headcss='<meta name="description" content=" ">
+		$headcss='<meta name="description" content="Traditional food and ingredients made convenient for the modern family. Fresheys offers a range of kitchen ingredients, mediums and ready-to-cook products with a focus on convenience. ">
 				  <meta name="keywords" content=" ">
 				  
-				  <title> Fresheys - Waycool </title>';
+				  <title> Fresheys - WayCool </title>';
 		$template->set('menu_disp', 'fresheys');	 
 	    $template->set('headcss',$headcss);
 		 

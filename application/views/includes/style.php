@@ -37,5 +37,16 @@
     <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>static/css/main.css">
     <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>static/css/media.css">
 	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-210409934-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-210409934-1');
+</script>
+
+
 </head>		
  

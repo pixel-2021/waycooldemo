@@ -11,10 +11,10 @@ class kwik_kitchen extends Controller {
 		//print_r($getEproductcatprods); exit;
 	 	$template = $this->loadView('kwik_kitchen_view');
 		
-		$headcss='<meta name="description" content=" ">
+		$headcss='<meta name="description" content="Kwik Kitchen is the reason why food retains its original flavor, taste and nutrients.">
 				  <meta name="keywords" content=" ">
 				  
-				  <title> Kwik Kitchen - Waycool </title>';
+				  <title> Kwik Kitchen - WayCool </title>';
 		$template->set('menu_disp', 'kwik_kitchen');	 
 	    $template->set('headcss',$headcss);
 		 
