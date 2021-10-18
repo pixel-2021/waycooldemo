@@ -36,12 +36,12 @@ define('TIMER','10');
 
  
 if($_SERVER['HTTP_HOST'] == '192.168.0.47'){
-  $config['db_host'] = '192.168.0.47'; // Database host (e.g. 192.168.0.47)
-  $config['db_name'] = 'badabro_db'; // Database name
+  $config['db_host'] = 'localhost'; // Database host (e.g. 192.168.0.47)
+  $config['db_name'] = 'waycool_db'; // Database name
   $config['db_username'] = 'root'; // Database username
   $config['db_password'] = ''; // Database password
 }else{
-  $config['db_host'] = '192.168.0.47'; // Database host (e.g. 192.168.0.47)
+  $config['db_host'] = 'localhost'; // Database host (e.g. 192.168.0.47)
   $config['db_name'] = 'mvc'; // Database name
   $config['db_username'] = 'mvc'; // Database username
   $config['db_password'] = 'mvc@123'; // Database password
