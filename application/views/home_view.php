@@ -1,8 +1,8 @@
-<?php include ('includes/style.php') ?>
+<?php include_once (__DIR__.'includes/style.php') ?>
 
 <body>
 
-<?php include ('includes/header.php') ?>
+<?php include_once (__DIR__.'includes/header.php') ?>
 
 
 <div id="video-carousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -459,8 +459,8 @@ Read our latest articles!
 </div>
 </section> 
 
-<?php include ('includes/footer.php') ?>
-<?php include ('includes/script.php') ?> 
+<?php include_once (__DIR__.'includes/footer.php') ?>
+<?php include_once (__DIR__.'includes/script.php') ?> 
 
 
 
