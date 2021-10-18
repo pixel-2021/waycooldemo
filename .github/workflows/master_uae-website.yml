@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'uae-website'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A50B4082DF84A3F87E6A48791945063 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B26027B14C974CEC881FE04294F8538F }}
           package: .
