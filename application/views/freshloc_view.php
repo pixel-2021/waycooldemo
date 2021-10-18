@@ -47,7 +47,7 @@
 
 <div class="comnn-title wow fadeInLeft" data-wow-duration="1s">
 <img src="<?php echo BASE_URL;?>static/images/brnd-7.png">
-<p>FreshLoc, from the house of Waycool, offers premium Organic Virgin Cold Pressed Coconut Oil.</p>
+<p>FreshLoc, from the house of WayCool, offers premium Organic Virgin Cold Pressed Coconut Oil.</p>
 
 <h3>Organic Cold Pressed Virgin Coconut Oil</h3>
 <p>Our Virgin coconut cold-pressed oil is produced with organic coconuts harvested from the fertile, sun-kissed plains of Pollachi, located in the Southern part of India. By buying this product, you are helping WayCool transform the lives of over 5000 farmers. We endeavor to provide better products to our customers, and better lives for our farmers.</p>

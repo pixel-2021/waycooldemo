@@ -10,8 +10,8 @@
 
 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 <div class="address-log">
-<h4>India office</h4>
-<p>Aurbis Business Park, Survey No. 58, 7, Outer Ring Rd, 
+<h4>India Office</h4>
+<p>Aurbis Business Park, Survey No.58, 7, Outer Ring Road, 
 New #6, Old #38, Bhagirathi Ammal Street, Parthasarathi Puram, 
 Devarabisanahalli, Bellandur, Bengaluru, Karnataka, India - 560103.</p>
 </div>
@@ -19,7 +19,7 @@ Devarabisanahalli, Bellandur, Bengaluru, Karnataka, India - 560103.</p>
 
 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 <div class="address-log">
-<h4>Dubai office</h4>
+<h4>Dubai Office</h4>
 <p>C/O  M/S: Atlas Global Trading FZC, 
 3410 HDS Tower, Cluster “F”, 
 Jumeirah Lakes Tower, P.O. Box 103 527, Dubai, UAE.</p>
@@ -49,7 +49,7 @@ Jumeirah Lakes Tower, P.O. Box 103 527, Dubai, UAE.</p>
 n=new Date();
 se=n.getFullYear();
 document.write(se);
-</script>, Waycool Foods and Products Pvt Ltd | All rights Reserved. Design by <a href="https://www.pixel-studios.com/" target="_blank">Pixel Studios</a></p>
+</script>, Waycool Foods and Products Pvt. Ltd. | All rights Reserved. Design by <a href="https://www.pixel-studios.com/" target="_blank">Pixel Studios</a></p>
 
 </div>
 
@@ -64,7 +64,7 @@ document.write(se);
             <div class="modal-content">
   <div class="banner-form">
   
-  <form onSubmit="return valid_chk1()" name="form1" method="post" action=""  id="form1">
+  <form onSubmit="return valid_chk1()" name="form1" method="post" action="<?php echo BASE_URL;?>thanks-enquiry"  id="form1">
 
 <button class="xclose" type="button" data-dismiss="modal" aria-hidden="true">×</button>
 <div class="tit-bn">

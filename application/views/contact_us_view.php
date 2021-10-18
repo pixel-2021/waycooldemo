@@ -86,7 +86,7 @@ to you as soon as possible. You can also contact us at our office address.
 	
 <div class="req-form">
 	
-<form onSubmit="return valid_chk()" name="form" method="post" action=""  id="form">
+<form onSubmit="return valid_chk()" name="form" method="post" action="<?php echo BASE_URL;?>thanks"  id="form">
 
 <div class="frm-fields row clearfix">
     
