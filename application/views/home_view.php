@@ -4,6 +4,18 @@
 
 Test pixel	
 	
+	
+	
+
+<?php
+
+ 
+phpinfo();
+
+
+
+?>
+
 	 
 
 
