@@ -1,10 +1,10 @@
-<?php include_once ('includes/style.php') ?>
+<?php include ('includes/style.php') ?>
 
 <body>
 
 Test studios	
 	
-<?php include_once ('includes/header.php') ?>
+<?php include ('includes/header.php') ?>
 
 
 <div id="video-carousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -461,8 +461,8 @@ Read our latest articles!
 </div>
 </section> 
 
-<?php include_once ('includes/footer.php') ?>
-<?php include_once ('includes/script.php') ?> 
+<?php include ('includes/footer.php') ?>
+<?php include ('includes/script.php') ?> 
 
 
 	 
