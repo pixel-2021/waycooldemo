@@ -1,6 +1,5 @@
  
 
-<body>
 
 Test pixel 	
 	
