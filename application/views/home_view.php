@@ -2,17 +2,13 @@
 
 <body>
 
-Test pixel	
+Test pixel 	
 	
-	
-	
+
 
 <?php
 
- 
 phpinfo();
-
-
 
 ?>
 
