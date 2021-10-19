@@ -2,10 +2,8 @@
 
 <body>
 
-Test studios	
 	
 <?php include ('includes/header.php') ?>
-
 
 <div id="video-carousel" class="carousel slide carousel-fade" data-ride="carousel">
 
