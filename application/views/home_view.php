@@ -1,6 +1,3 @@
- 
-Test pixel
-
 <?php include_once ('includes/style.php') ?>
 
 <body>
@@ -464,8 +461,8 @@ Read our latest articles!
 </div>
 </section> 
 
-<?php include_once (__DIR__.'includes/footer.php') ?>
-<?php include_once (__DIR__.'includes/script.php') ?> 
+<?php include_once ('includes/footer.php') ?>
+<?php include_once ('includes/script.php') ?> 
 
 
 	 
