@@ -1,10 +1,6 @@
  
 
 
-Test pixel 	
-	
-
-
 <?php
 
 phpinfo();
