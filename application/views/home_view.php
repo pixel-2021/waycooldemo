@@ -4,7 +4,7 @@
 
 Test studios	
 	
-<?php include_once (__DIR__.'includes/header.php') ?>
+<?php include_once ('includes/header.php') ?>
 
 
 <div id="video-carousel" class="carousel slide carousel-fade" data-ride="carousel">
