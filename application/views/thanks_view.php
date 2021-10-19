@@ -127,10 +127,10 @@ $message = '<table width="100%" border="0" cellspacing="0" cellpadding="0" style
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 
-//$headers .= 'From:'.$aemail. "\r\n";
+$headers .= 'From:'.$aemail. "\r\n";
 //$headers .= 'From: manu020286@gmail.com'. "\r\n";
-$headers .= 'From: support@waycool.in'. "\r\n";
-$headers .= 'Bcc: websupport@pixel-studios.com' . "\r\n";
+//$headers .= 'From: support@waycool.in'. "\r\n";
+$headers .= 'Bcc: websupport@pixel-studios.com, behin.pixel@gmail.com' . "\r\n";
 
 if(mail($to, $subject, $message, $headers)){
 
