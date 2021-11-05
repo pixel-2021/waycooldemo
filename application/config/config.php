@@ -14,14 +14,14 @@ define('PAGEADMIN_URL','http://192.168.0.58/waycooldemo/');
 }
 else{
 
-  $config['base_url'] = 'https://'.$_SERVER['SERVER_NAME'].'/'; // Base URL including trailing slash (e.g. http://192.168.0.47/)
+  $config['base_url'] = 'https://www.'.$_SERVER['SERVER_NAME'].'/'; // Base URL including trailing slash (e.g. http://192.168.0.47/)
   $config['default_controller'] = 'main'; // Default controller to load
   $config['error_controller'] = 'page_error'; // Controller used for errors (e.g. 404, 500 etc)
-  define('img_base_url','https://'.$_SERVER['SERVER_NAME'].'/'); // Base URL including trailing slash (e.g. http://192.168.0.47/)
+  define('img_base_url','https://www.'.$_SERVER['SERVER_NAME'].'/'); // Base URL including trailing slash (e.g. http://192.168.0.47/)
   
-  define('PAGEADMIN_URL','https://'.$_SERVER['SERVER_NAME'].'/');
-  define('MAILLOGO','https://'.$_SERVER['SERVER_NAME'].'/uploads/logo/');
-  define('resumeurl','https://'.$_SERVER['SERVER_NAME'].'/uploads/resume/');
+  define('PAGEADMIN_URL','https://www.'.$_SERVER['SERVER_NAME'].'/');
+  define('MAILLOGO','https://www.'.$_SERVER['SERVER_NAME'].'/uploads/logo/');
+  define('resumeurl','https://www.'.$_SERVER['SERVER_NAME'].'/uploads/resume/');
 }
 
 ####for testing##########
