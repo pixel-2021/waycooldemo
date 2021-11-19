@@ -29,7 +29,7 @@
 
 <div class="">
 <div class="comnn-title text-left wow fadeInUp" data-wow-duration="1s">
-<h3><span> Contact Us </span> Waycool is  <br> Listening </h3>
+<h3><span> Contact Us </span> WayCool is  <br> Listening </h3>
 <br>
 </div>
 </div>  
@@ -42,23 +42,24 @@
 
 <p class="addr">
 <img src="<?php echo BASE_URL;?>static/images/loc.png" alt="Waycool" /><span> India Corporate Office </span> 
-<b>Waycool Foods and Products Pvt. Ltd,</b><br>
-Aurbis Business Park, Survey No. 58, 7, Outer Ring Rd,<br> 
-Devarabisanahalli, Bellandur, Bengaluru, Karnataka, India 560103.</p> 
+<b>WayCool Foods and Products Pvt. Ltd,</b><br>
+Aurbis Business Park, Ground floor, Survey No. 58, 7,<br> 
+Outer Ring Rd, Devarabisanahalli, Bellandur,<br>  
+Bengaluru, Karnataka, India 560103.</p>  
 
 <p class="callr"> <img src="<?php echo BASE_URL;?>static/images/call.png" alt="Waycool" /> <strong> Call us </strong> <br> +91 95001 68299 </p>
  <br>
- <p class="smsr br-tm"> <img src="<?php echo BASE_URL;?>static/images/sms.png" alt="Waycool" /> <strong> E-mail </strong> <br> <a href="mailto: support@waycool.in" target="_blank"> support@waycool.in </a>  </p> 
+ <p class="smsr"> <img src="<?php echo BASE_URL;?>static/images/sms.png" alt="Waycool" /> <strong> E-mail </strong> <br> <a href="mailto: international.business@waycool.in" target="_blank"> international.business@waycool.in </a>  </p>  <br> 
 <p class="addr">
 <img src="<?php echo BASE_URL;?>static/images/loc.png" alt="Waycool" /><span> Dubai Office </span> 
-<b>Waycool Foods,</b><br>
-C/O  M/S: Atlas Global Trading FZC,<br>
+<b>WayCool Foods,</b><br>
+C/o  M/s: Atlas Global Trading FZC,<br>
 3410 HDS Tower, Cluster “F” , <br>
 Jumeirah Lakes Tower, P.O. Box 103 527, Dubai, UAE.</p> 
  
-<p class="callr"> <img src="<?php echo BASE_URL;?>static/images/call.png" alt="Waycool" /> <strong> Call us </strong> <br>+91 9715653 33635 </p>
+<p class="callr"> <img src="<?php echo BASE_URL;?>static/images/call.png" alt="Waycool" /> <strong> Call us </strong> <br>+971 5653 33635 </p>
  <br>
- <p class="smsr"> <img src="<?php echo BASE_URL;?>static/images/sms.png" alt="Waycool" /> <strong> E-mail </strong> <br> <a href="mailto: international.business@waycool.in" target="_blank"> international.business@waycool.in </a>  </p> 
+
  
 </div>
 </div> 

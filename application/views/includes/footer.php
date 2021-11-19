@@ -11,16 +11,17 @@
 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 <div class="address-log">
 <h4>India Office</h4>
-<p>Aurbis Business Park, Survey No.58, 7, Outer Ring Road, 
-New #6, Old #38, Bhagirathi Ammal Street, Parthasarathi Puram, 
-Devarabisanahalli, Bellandur, Bengaluru, Karnataka, India - 560103.</p>
+<strong>WayCool Foods & Products Pvt. Ltd,</strong>
+<p>Aurbis Business Park, Ground floor, Survey No. 58, 7,
+ Outer Ring Rd, Devarabisanahalli, Bellandur,
+ Bengaluru, Karnataka, India 560103</p>
 </div>
 </div>
 
 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 <div class="address-log">
 <h4>Dubai Office</h4>
-<p>C/O  M/S: Atlas Global Trading FZC, 
+<p>C/o  M/s: Atlas Global Trading FZC, 
 3410 HDS Tower, Cluster “F”, 
 Jumeirah Lakes Tower, P.O. Box 103 527, Dubai, UAE.</p>
 </div>
@@ -49,7 +50,7 @@ Jumeirah Lakes Tower, P.O. Box 103 527, Dubai, UAE.</p>
 n=new Date();
 se=n.getFullYear();
 document.write(se);
-</script>, Waycool Foods and Products Pvt. Ltd. | All rights Reserved. Design by <a href="https://www.pixel-studios.com/" target="_blank">Pixel Studios</a></p>
+</script>, WayCool Foods and Products Pvt. Ltd. | All rights Reserved. Design by <a href="https://www.pixel-studios.com/" target="_blank">Pixel Studios</a></p>
 
 </div>
 
@@ -85,9 +86,10 @@ document.write(se);
 <div class="form-group">
 <select class="form-control " id="seek" name="seek">
 	<option value="">Select the Product</option>
-    <option value="Fresheys">Fresheys</option>
+    <option value="Fresheys">Freshey's</option>
     <option value="Kwik Kitchen">Kwik Kitchen</option>
     <option value="Freshloc">Freshloc</option>
+    <option value="Fresh F&V">Fresh F & V</option>
 </select>
  </div> 
  

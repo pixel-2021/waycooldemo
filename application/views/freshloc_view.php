@@ -81,15 +81,13 @@
 					  <th>S.No</th>
 					  <th>Product Name</th>
 					  <th>Quantity</th>
-					  <th>Pack types</th>
 					</tr>
 				  </thead>
 				  <tbody>
 					<tr>
 					  <td data-column="S.No">01</td>
 					  <td data-column="Product Name">Organic Cold Pressed Virgin Coconut Oil</td>
-					  <td data-column="Quantity"> 500 ml </td>
-					  <td data-column="Pack types"> Bottle </td>
+					  <td data-column="Quantity"> 2.5kg </td>
 					</tr>
 				  </tbody>
 				</table>

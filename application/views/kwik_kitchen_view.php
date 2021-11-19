@@ -153,7 +153,7 @@
 </div>
 <div class="prod-range-cont text-left">
 <h4>Groundnut Oil</h4>
-<p>Extracted from 2.5 kg groundnuts per litre, the high-density multi-purpose groundnut oil helps control cholesterol levels, preserves neurological function, and relieves dandruff problems when applied on the scalp.</p>
+<p>Extracted from 2.5kg groundnuts per litre, the high-density multi-purpose groundnut oil helps control cholesterol levels, preserves neurological function, and relieves dandruff problems when applied on the scalp.</p>
 <!-- <a href="">Read More</a>
 <div class="buynow">
 <p>Buy Now At:</p>
@@ -171,7 +171,7 @@
 </div>
 <div class="prod-range-cont text-left">
 <h4>Sesame Oil</h4>
-<p>Extracted from 2.5Kg of sesame seeds per litre, it is a multi-purpose oil with medicinal properties. It helps to prevent heart diseases and can be used for cooking, ayurvedic massages, and oil pulling.</p>
+<p>Extracted from 2.5kg of sesame seeds per litre, it is a multi-purpose oil with medicinal properties. It helps to prevent heart diseases and can be used for cooking, ayurvedic massages, and oil pulling.</p>
 <!-- <a href="">Read More</a>
 <div class="buynow">
 <p>Buy Now At:</p>
@@ -257,7 +257,7 @@
 </div>
 <div class="prod-range-cont text-left">
 <h4>Indian Long Grain Rice</h4>
-<p>Long grain rice is sourced from the middle eastern part of India. It measures 6mm in length and is priced less than basmati rice. It is a staple food and consumed every day by a majority of Indian households.</p>
+<p>Long grain rice is sourced from the middle eastern part of India. It measures 6mm in length and is priced less than basmati rice. It is a staple food that is consumed every day by a majority of Indian households.</p>
 <!-- <a href="">Read More</a>
 <div class="buynow">
 <p>Buy Now At:</p>
@@ -275,7 +275,7 @@
 </div>
 <div class="prod-range-cont text-left">
 <h4>Sona Masoori Rice</h4>
-<p>Sona Masoori Rice is a lightweight, aromatic medium-grain rice that is the result of a cross combination of the rice varieties, Sona and Mahsuri. It is grown largely in the Indian states of Andhra Pradesh, Telangana, and Karnataka. Our premium quality grains are packed with a burst of flavor in each bite. </p>
+<p>Sona Masoori Rice is lightweight, aromatic medium-grain rice that is the result of a cross combination of the rice varieties, Sona and Mahsuri. It is grown largely in the Indian states of Andhra Pradesh, Telangana, and Karnataka. Our premium quality grains are packed with a burst of flavor in each bite. </p>
 <!-- <a href="">Read More</a>
 <div class="buynow">
 <p>Buy Now At:</p>
@@ -341,9 +341,12 @@
 <div class="row pt-5 justify-content-center">
 
 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+<div class="prod-range-img">
+<img src="<?php echo BASE_URL;?>static/images/spe-1.jpg" alt="" />
+</div>
 <div class="prod-range-cont text-left">
 <h4>Black pepper</h4>
-<p>Steam washed, uniformly dried, mature berries. oil polish free - Edible/non-edible beneficial piperine is presented to you in a natural way to improve the overall health of your family. Consume one or two black peppers a day for best health and immunity.</p>
+<p>Steam washed, uniformly dried, mature berries. oil polish free - Edible/non-edible Beneficial piperine is presented to you in a natural way to improve the overall health of your family. Consume one or two black peppers a day for best health and immunity.</p>
 <!-- <a href="">Read More</a>
 <div class="buynow">
 <p>Buy Now At:</p>
@@ -356,6 +359,9 @@
 </div>
 
 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+<div class="prod-range-img">
+<img src="<?php echo BASE_URL;?>static/images/spe-4.jpg" alt="" />
+</div>
 <div class="prod-range-cont text-left">
 <h4>Bay leaf</h4>
 <p>Bay laurels are premium grade and aromatic leaves used to add flavour to your food. The scientifically graded, hygienically processed, packed and quality assured bay leaves add flavour to your food and improves digestion and overall immunity. </p>
@@ -371,6 +377,9 @@
 </div>
 
 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+<div class="prod-range-img">
+<img src="<?php echo BASE_URL;?>static/images/spe-6.jpg" alt="" />
+</div>
 <div class="prod-range-cont text-left">
 <h4>Clove </h4>
 <p>Syzygium aromaticum flower buds are scientifically graded, free from adulterants and exhausted buds, and carefully handled and hygienically packed. The natural oil present in cloves enriches the taste and flavour of food and also improves your oral health, digestion and overall immunity.
@@ -387,6 +396,9 @@
 </div> 
 
 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+<div class="prod-range-img">
+<img src="<?php echo BASE_URL;?>static/images/spe-3.jpg" alt="" />
+</div>
 <div class="prod-range-cont text-left">
 <h4>Cinnamon</h4>
 <p>Cinnamon is known for its strong flavour and aroma. The scientifically graded, hygienically processed, packed and quality assured cassia adds the enriched typical cinnamon flavour to your food. Kwik Kitchen’s Cassia adds flavour to your life through food. </p>
@@ -404,6 +416,9 @@
 </div>
 
 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+<div class="prod-range-img">
+<img src="<?php echo BASE_URL;?>static/images/spe-2.jpg" alt="" />
+</div>
 <div class="prod-range-cont text-left">
 <h4>Cardamom</h4>
 <p>Scientifically graded, uniformly sized and well dried green pods with retained fresh aroma, add flavour to your food and to your life. The natural cardamom oil also improves your digestion and health. </p>
@@ -419,6 +434,9 @@
 </div>
 
 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+<div class="prod-range-img">
+<img src="<?php echo BASE_URL;?>static/images/spe-5.jpg" alt="" />
+</div>
 <div class="prod-range-cont text-left">
 <h4>Fennel</h4>
 <p>Scientifically graded, hygienically processed and packed fennel of assured quality with its natural flavour adds flavour to your life. The natural essential oil present in its best form enhances your food and your health as well. Contains no artificial colors. </p>
@@ -449,33 +467,28 @@
 					  <th>S.No</th>
 					  <th>Product Name</th>
 					  <th>Quantity</th>
-					  <th>Pack types</th>
 					</tr>
 				  </thead>
 				  <tbody>
 					<tr>
 					  <td data-column="S.No">01</td>
 					  <td data-column="Product Name">Ginger Paste</td>
-					  <td data-column="Quantity">283gm, 500gm</td>
-					  <td data-column="Pack types">Bottle</td>
+					  <td data-column="Quantity">283g, 500g</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">02</td>
 					  <td data-column="Product Name">Garlic Paste</td>
-					  <td data-column="Quantity">283gm, 500gm</td>
-					  <td data-column="Pack types">Bottle</td>
+					  <td data-column="Quantity">283g, 500g</td>
 					</tr> 
 					<tr>
 					  <td data-column="S.No">03</td>
 					  <td data-column="Product Name">Ginger Garlic Paste </td>
-					  <td data-column="Quantity">283gm, 500gm</td>
-					  <td data-column="Pack types">Bottle</td>
+					  <td data-column="Quantity">283g, 500g</td>
 					</tr> 
 					<tr>
 					  <td data-column="S.No">04</td>
 					  <td data-column="Product Name">Groundnut Oil</td>
 					  <td data-column="Quantity">500ml, 1l</td>
-					  <td data-column="Pack types">-</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">05</td>
@@ -487,73 +500,61 @@
 					  <td data-column="S.No">06</td>
 					  <td data-column="Product Name">Coconut Oil</td>
 					  <td data-column="Quantity">500ml, 1l</td>
-					  <td data-column="Pack types">-</td>
 					</tr> 
 					<tr>
 					  <td data-column="S.No">07</td>
 					  <td data-column="Product Name">Indian Super Basmati Rice</td>
 					  <td data-column="Quantity">2kg, 5kg, 10kg, 25kg</td>
-					  <td data-column="Pack types">Packet</td>
 					</tr> 
 					<tr>
 					  <td data-column="S.No">08</td>
 					  <td data-column="Product Name">Long Grain Rice</td>
 					  <td data-column="Quantity">5kg, 10kg, 25kg</td>
-					  <td data-column="Pack types">Packet</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">09</td>
 					  <td data-column="Product Name">Sona Masoori Rice</td>
 					  <td data-column="Quantity">5kg, 10kg, 25kg</td>
-					  <td data-column="Pack types">Packet</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">10</td>
 					  <td data-column="Product Name">Idli Rice</td>
 					  <td data-column="Quantity">2kg, 5kg</td>
-					  <td data-column="Pack types">Packet</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">11</td>
 					  <td data-column="Product Name">Matta Rice</td>
 					  <td data-column="Quantity">5kg, 10kg, 25kg</td>
-					  <td data-column="Pack types">Packet</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">12</td>
 					  <td data-column="Product Name">Black pepper</td>
 					  <td data-column="Quantity">200g</td>
-					  <td data-column="Pack types">-</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">13</td>
 					  <td data-column="Product Name">Bay leaf</td>
 					  <td data-column="Quantity">50g</td>
-					  <td data-column="Pack types">-</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">14</td>
 					  <td data-column="Product Name">Clove</td>
 					  <td data-column="Quantity">100g</td>
-					  <td data-column="Pack types">-</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">15</td>
 					  <td data-column="Product Name">Cinnamon</td>
 					  <td data-column="Quantity">100g</td>
-					  <td data-column="Pack types">-</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">16</td>
 					  <td data-column="Product Name">Cardamom</td>
 					  <td data-column="Quantity">100g</td>
-					  <td data-column="Pack types">-</td>
 					</tr>
 					<tr>
 					  <td data-column="S.No">17</td>
 					  <td data-column="Product Name">Fennel </td>
 					  <td data-column="Quantity">200g</td>
-					  <td data-column="Pack types">-</td>
 					</tr>  
 				  </tbody>
 				</table>

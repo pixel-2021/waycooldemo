@@ -2,8 +2,8 @@
 
 <body>
 
-	
 <?php include ('includes/header.php') ?>
+
 
 <div id="video-carousel" class="carousel slide carousel-fade" data-ride="carousel">
 
@@ -18,10 +18,12 @@
 		
             <div class="carousel-item active">
 				<div class="banner-layers">
+				<div class="banner-vedeo">
                <video id="homeVideo" class="video-fluid" autoplay="" loop="" muted="">
 				  <source src="<?php echo BASE_URL;?>static/videos/homevideo.webm" type="video/webm">
                   <source src="<?php echo BASE_URL;?>static/videos/homevideo.mp4" type="video/mp4">
                </video>
+			   </div>
 			   <div class="carousel-captions">
 			   <div class="container">
 			   <div class="carousel-tend">
@@ -145,7 +147,7 @@ WayCool is one of India’s fastest growing Agri-tech <br> companies that has es
 	</div>
 	
 	<div class="back why-bx bx-1">
-	We work with various self help groups (shgs), positively impacting the lives of rural women, thus providing them with a source of livelihood.
+	We work with various self help groups, positively impacting the lives of rural women, thus providing them with a source of livelihood.
 	</div>
 	
 </div>
@@ -166,7 +168,7 @@ WayCool is one of India’s fastest growing Agri-tech <br> companies that has es
 	</div>
 	
 	<div class="back why-bx bx-2">
-	We have direct links with over 5,00,000 farmers and manufacturers who are certified in brc, halal, usda organic, iso, etc.     
+	We have direct links with over 5,00,000 farmers and manufacturers who are certified by BRC, Halal, USDA Organic, ISO etc.     
 	</div>
 	
 </div>
@@ -187,7 +189,7 @@ WayCool is one of India’s fastest growing Agri-tech <br> companies that has es
 	</div>
 	
 	<div class="back why-bx bx-3">
-	Over 20 quality checks are conducted right from the time the products are sourced until they are dispatched, to ensure the highest quality.           
+	Over 20 quality checks are conducted right from the time the products are sourced, until they are dispatched, to ensure the highest quality.
 	</div>
 	
 </div>
@@ -208,7 +210,7 @@ WayCool is one of India’s fastest growing Agri-tech <br> companies that has es
 	</div>
 	
 	<div class="back why-bx bx-4">
-	We offer a wide range of product portfolios of 68 skus under 9 categories to 500+ clients across 50 regions. 
+	We offer a wide range of product portfolios of 68 SKUs under 9 categories to 500+ clients across 50 regions. 
 	</div>
 	
 </div>
@@ -294,6 +296,10 @@ WayCool's homegrown brands are built ground up with extensive <br> quality contr
 
 <div class="comnn-title">
 <h3><span> Export </span> Reaching out to the world </h3>
+</div><br>
+
+<div class="undr-hdng wow fadeInUp" data-wow-duration="1.5s">
+Locate our establishments near you.
 </div>
 
 			
@@ -313,7 +319,8 @@ WayCool's homegrown brands are built ground up with extensive <br> quality contr
 		<a href="javascript:void(0)"><span class="location-single l10" data-trigger="hover" data-toggle="popover" data-content="KSA" data-original-title="" title=""></span></a>
 		<a href="javascript:void(0)"><span class="location-single l11" data-trigger="hover" data-toggle="popover" data-content="USA" data-original-title="" title=""></span></a>
 		<a href="javascript:void(0)"><span class="location-single l12" data-trigger="hover" data-toggle="popover" data-content="Canada" data-original-title="" title=""></span></a>
-		<a href="javascript:void(0)"><span class="location-single l13" data-trigger="hover" data-toggle="popover" data-content="Finland" data-original-title="" title=""></span></a> 
+		<a href="javascript:void(0)"><span class="location-single l13" data-trigger="hover" data-toggle="popover" data-content="Finland" data-original-title="" title=""></span></a>
+		<a href="javascript:void(0)"><span class="location-single l14" data-trigger="hover" data-toggle="popover" data-content="India" data-original-title="" title=""></span></a> 
 		
 	</div>
 	
@@ -461,9 +468,6 @@ Read our latest articles!
 
 <?php include ('includes/footer.php') ?>
 <?php include ('includes/script.php') ?> 
-
-
-	 
 
 
 

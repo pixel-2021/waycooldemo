@@ -44,7 +44,7 @@
 <div class="sub-hdngs wow fadeInUp" data-wow-duration="1.4s">
 <h4> Positive Social Impact </h4>
 </div>
-<p class="wow fadeInUp" data-wow-duration="1s">We work with various SHGs which positively impact the lives of rural women thus giving them a livelihood.</p>
+<p class="wow fadeInUp" data-wow-duration="1s">We work with various self help groups which positively impact the lives of rural women thus giving them a livelihood.</p>
 </div>
 </div>
 
@@ -85,7 +85,7 @@
 <div class="sub-hdngs wow fadeInUp" data-wow-duration="1.4s">
 <h4> Widest Range </h4>
 </div>
-<p class="wow fadeInUp" data-wow-duration="1s">We offer a wide range of product portfolios of 68 SKUs under 9 categories. Our wide gamut of offerings ranges from fruits & vegetables to spices & cooking, and other kitchen essentials like oil, ghee, tamarind, frozen food products and so on. </p>
+<p class="wow fadeInUp" data-wow-duration="1s">We offer a wide range of product portfolios of 68 SKUs under 9 categories. Our wide gamut of offerings ranges from fruits & vegetables to spices & cooking pastes, and other kitchen essentials like oil, ghee, tamarind, frozen food products and so on.</p>
 </div>
 </div>
 
