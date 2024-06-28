@@ -12,8 +12,8 @@
 <div class="address-log">
 <h4>India Office</h4>
 <strong>WayCool Foods & Products Pvt. Ltd,</strong>
-<p>Aurbis Business Park, Ground floor, Survey No. 58, 7,
- Outer Ring Rd, Devarabisanahalli, Bellandur,
+<p>Marathahalli - Sarjapur Outer Ring Rd,
+ Devarabisanahalli, Bellandur,
  Bengaluru, Karnataka, India 560103</p>
 </div>
 </div>
