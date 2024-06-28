@@ -43,7 +43,7 @@
 <p class="addr">
 <img src="<?php echo BASE_URL;?>static/images/loc.png" alt="Waycool" /><span> India Corporate Office </span> 
 <b>Waycool Foods and Products Pvt. Ltd,</b><br>
-Aurbis Business Park, Survey No. 58, 7, Outer Ring Rd,<br> 
+Marathahalli - Sarjapur Outer Ring Rd,<br> 
 Devarabisanahalli, Bellandur, Bengaluru, Karnataka, India 560103.</p> 
 
 <p class="callr"> <img src="<?php echo BASE_URL;?>static/images/call.png" alt="Waycool" /> <strong> Call us </strong> <br> +91 95001 68299 </p>
