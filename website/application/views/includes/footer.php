@@ -11,9 +11,9 @@
 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 <div class="address-log">
 <h4>India office</h4>
-<p>Aurbis Business Park, Survey No. 58, 7, Outer Ring Rd, 
-New #6, Old #38, Bhagirathi Ammal Street, Parthasarathi Puram, 
-Devarabisanahalli, Bellandur, Bengaluru, Karnataka, India - 560103.</p>
+<p>Marathahalli - Sarjapur Outer Ring Rd,
+ Devarabisanahalli, Bellandur,
+ Bengaluru, Karnataka, India 560103</p>
 </div>
 </div>
 
